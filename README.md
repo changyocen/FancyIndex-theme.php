@@ -1,0 +1,1 @@
+# FancyIndex-theme.php
